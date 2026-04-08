@@ -1,5 +1,7 @@
 # 💫 About Me:
-Atualmente sou estudante de sistemas de informação na USP.<br>Sou formado técnico em desenvolvimento de sistemas pela ETESP.<br>Gosto de trabalhar com react e react native no desenvolvimento mobile e estou buscando aprimorar minhas habilidades no backend.
+- Atualmente sou estudante de sistemas de informação na USP.<br>
+- Sou formado técnico em desenvolvimento de sistemas pela ETESP.<br>
+- Gosto de trabalhar com react e react native no desenvolvimento mobile e estou buscando aprimorar minhas habilidades no backend.
 
 
 ## 🌐 Socials:
